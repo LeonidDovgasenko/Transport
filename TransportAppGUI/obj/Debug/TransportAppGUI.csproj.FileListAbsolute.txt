@@ -1,0 +1,16 @@
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.csproj.AssemblyReference.cache
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.AddTransportForm.resources
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.EditTransportForm.resources
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.Form1.resources
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.Properties.Resources.resources
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.csproj.GenerateResource.cache
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\bin\Debug\TransportAppGUI.exe.config
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\bin\Debug\TransportAppGUI.exe
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\bin\Debug\TransportAppGUI.pdb
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\bin\Debug\TransportLibrary.dll
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\bin\Debug\TransportLibrary.pdb
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.csproj.CopyComplete
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.exe
+C:\Users\Леонид\source\repos\TransportAppGUI\TransportAppGUI\obj\Debug\TransportAppGUI.pdb
